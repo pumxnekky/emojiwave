@@ -1,7 +1,7 @@
 import { io, Socket } from 'socket.io-client';
 import { useStore } from '../store/useStore';
 
-const SERVER_URL = 'wss://api.emojiwave.app'; // Replace with your server URL
+const SERVER_URL = 'wss://emojiwave-production.up.railway.app'; // Replace with your server URL
 
 class SocketService {
   private socket: Socket | null = null;

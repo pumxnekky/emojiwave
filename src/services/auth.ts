@@ -2,7 +2,7 @@ import * as SecureStore from 'expo-secure-store';
 import * as Crypto from 'expo-crypto';
 import axios from 'axios';
 
-const API_URL = 'https://api.emojiwave.app';
+const API_URL = 'https://emojiwave-production.up.railway.app';
 const USER_ID_KEY = 'emojiwave_user_id';
 const TOKEN_KEY = 'emojiwave_token';
 const PROFILE_KEY = 'emojiwave_profile';
