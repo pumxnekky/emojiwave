@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.expo/
+
+# Build outputs
+dist/
+build/
+android/
+ios/
+
+# Environment & secrets
+.env
+*.env
+server/.env
+google-services.json
+GoogleService-Info.plist
+google-play-service-account.json
+firebase-service-account.json
+*.keystore
+*.jks
+*.p8
+*.p12
+*.cer
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Expo
+.expo-shared/
+web-build/
