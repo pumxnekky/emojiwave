@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648058714006",
+    "project_id": "emojiwave-18118",
+    "storage_bucket": "emojiwave-18118.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648058714006:android:942decc73342025b290fb7",
+        "android_client_info": {
+          "package_name": "com.emojiwave.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzp7SENaa9TYDY297LvROR2pqU-eEYlYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
